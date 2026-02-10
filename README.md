@@ -1,2 +1,3 @@
-> **Crop_Prediction_Model**
+ **Crop_Prediction_Model**
+
 Accurate crop yield prediction is essential for effective agricultural planning and food security. This project presents a machine learning–based approach to predict crop yield in Indian agriculture using historical agricultural and climatic data. Multiple machine learning models, including Linear Regression, Decision Tree, Random Forest, and Support Vector Regression, are trained and evaluated to identify the best-performing model. The proposed system provides reliable yield predictions that assist farmers in crop selection, resource management, and harvest planning. The results demonstrate that machine learning techniques can significantly improve prediction accuracy compared to traditional methods.
